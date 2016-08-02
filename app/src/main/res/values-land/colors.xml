@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--DEFAULT-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--OTHER-->
+    <color name="newBlack">#000</color>
+    <color name="newWhite">#fff</color>
+    <color name="newRed">#f00</color>
+    <color name="newGreen">#0f0</color>
+    <color name="newBlue">#00f</color>
+    <color name="newCyan">#0ff</color>
+    <color name="newPink">#f0f</color>
+    <color name="newYellow">#ff0</color>
+    <color name="txt_color">#f1f1</color>
+    <!--THEME-->
+    <color name="newBack">#333</color>
+</resources>

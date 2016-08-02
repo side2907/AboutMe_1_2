@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="what_i_can">
+        <item>java</item>
+        <item>android</item>
+        <item>xml</item>
+        <item>anything</item>
+    </string-array>
+</resources>

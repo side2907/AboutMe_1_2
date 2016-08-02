@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="nameF">Fialkovskiy</string>
+    <string name="nameI">Ilya</string>
+    <string name="nameO">Vladimirovich</string>
+    <string name="email">side2907@GMAIL.COM</string>
+    <string name="orientation">Landscape orientation</string>
+</resources>
